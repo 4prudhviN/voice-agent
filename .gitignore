@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Whisper models cache
+~/.cache/whisper/
+
+# Output files (keep directory, ignore contents except .gitkeep)
+output/*
+!output/.gitkeep
+
+# ffmpeg binary (downloaded automatically)
+ffmpeg_bin/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Gradio
+gradio_cached_examples/
+flagged/

@@ -1,0 +1,11 @@
+openai-whisper==20231117
+gradio==4.44.0
+ollama==0.3.3
+numpy==1.26.4
+torch==2.5.1
+torchaudio==2.5.1
+ffmpeg-python==0.2.0
+python-dotenv==1.0.1
+pathlib==1.0.1
+pandas==2.2.0
+requests==2.31.0

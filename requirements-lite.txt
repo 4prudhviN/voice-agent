@@ -1,0 +1,10 @@
+# Lightweight version without Whisper/Torch (for testing)
+gradio==4.44.0
+ollama==0.3.3
+numpy==1.26.4
+python-dotenv==1.0.1
+pandas==2.2.0
+requests==2.31.0
+
+# To enable audio transcription, also install:
+# pip install openai-whisper torch torchaudio
